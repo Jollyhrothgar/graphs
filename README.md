@@ -64,4 +64,4 @@ functioning code:
 - Support for graph algorithms
 - Physics based graph visualization (I wanna see bouncy nodes that wiggle in
   real time)
-- Add setup.py in a bit (reference: [my distribution math library](https://github.com/Jollyhrothgar/distribution_math/tree/master/distribution_math)
+- Add setup.py in a bit (reference: [my distribution math library](https://github.com/Jollyhrothgar/distribution_math/tree/master/distribution_math))
